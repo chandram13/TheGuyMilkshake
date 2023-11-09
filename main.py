@@ -15,6 +15,13 @@ def randmomizerMS():
 randmomizerMS()
 
 
+def calorieCounter():
+    calMixins = {"Chocolate": 40,"Strawberry": 20,"Banana": 30,"Peanut Butter": 90,"Salted Caramel": 45,"Whipped Cream": 20,"OREO Cookies" : 65,"Bacon": 80,"Vanilla": 20,"OREO Creme": 90,"Double Stuf": 60,"Reese's Cups": 60}
+    print(calMixins["Chocolate"])
+
+calorieCounter()
+
+
 
 
 
